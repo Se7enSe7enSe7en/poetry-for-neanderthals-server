@@ -1,2 +1,2 @@
-# game-lobby-server
-backend server for web games
+# poetry-for-neanderthals-server
+backend server for the poetry for neanderthals game
